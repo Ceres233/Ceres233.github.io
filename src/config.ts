@@ -4,7 +4,7 @@ export const themeConfig: ThemeConfig = {
   // SITE INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START
   site: {
     // site title
-    title: '大C老师\n妙妙屋',
+    title: '大C老师妙妙屋',
     // site subtitle
     subtitle: 'Welcome!',
     // site description
@@ -75,7 +75,7 @@ export const themeConfig: ThemeConfig = {
   // COMMENT SETTINGS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> START
   comment: {
     // enable comment system
-    enabled: true, // true, false
+    enabled: false, // true, false
     // giscus
     // https://giscus.app/
     giscus: {
