@@ -17,7 +17,7 @@ export const themeConfig: ThemeConfig = {
     url: 'https://cmail233.netlify.app',
     // favicon url
     // recommended formats: svg, png or ico
-    favicon: '/icons/favicon.png', // or https://example.com/favicon.svg
+    favicon: '/icons/favicon233.png', // or https://example.com/favicon.svg
   },
   // SITE INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> END
 
@@ -164,7 +164,7 @@ export const themeConfig: ThemeConfig = {
       },
       {
         name: 'GitHub',
-        url: 'https://github.com/radishzzz/astro-theme-retypeset',
+        url: 'https://github.com/Ceres233/Ceres233.github.io',
       },
       {
         name: 'Email',
